@@ -1,0 +1,36 @@
+body {
+    font-family: 'Pacifico', cursive;
+    margin: 20px;
+    color: White;
+    background: linear-gradient(
+    to bottom,
+    #00b4d8 0%,
+    #006994 50%,
+    #003366 100%
+);
+    min-height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h2 {
+    text-align: Left;
+    margin-bottom: 10px;
+}
+
+nav {
+    margin-bottom: 50px;
+}
+
+nav a {
+    margin-right: 25px;
+    text-decoration: none;
+    color: White;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
